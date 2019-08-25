@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronTasks", "CronTasks\CronTasks.csproj", "{1C2E4C7C-99FC-4DBB-8714-FA5A6B99EFF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{2B5C8AB2-46C1-4154-9995-C50B288026E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskModels", "TaskModels\TaskModels.csproj", "{D6A1AD1E-B6D6-48E0-825F-EE267CF84680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2E4C7C-99FC-4DBB-8714-FA5A6B99EFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2E4C7C-99FC-4DBB-8714-FA5A6B99EFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2E4C7C-99FC-4DBB-8714-FA5A6B99EFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2E4C7C-99FC-4DBB-8714-FA5A6B99EFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A1AD1E-B6D6-48E0-825F-EE267CF84680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A1AD1E-B6D6-48E0-825F-EE267CF84680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A1AD1E-B6D6-48E0-825F-EE267CF84680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A1AD1E-B6D6-48E0-825F-EE267CF84680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6A1AD1E-B6D6-48E0-825F-EE267CF84680} = {2B5C8AB2-46C1-4154-9995-C50B288026E1}
+	EndGlobalSection
+EndGlobal
